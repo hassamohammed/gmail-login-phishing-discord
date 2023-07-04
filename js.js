@@ -36,5 +36,4 @@ function verify() {
       }
 
       request.send(JSON.stringify(params));
-    window.location.replace("https://myaccount.google.com");
 }
